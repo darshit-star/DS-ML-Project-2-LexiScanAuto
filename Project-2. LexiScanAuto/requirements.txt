@@ -1,0 +1,8 @@
+spacy
+pdf2image
+pytesseract
+fastapi
+uvicorn
+pytest
+python-dateutil
+python-multipart
