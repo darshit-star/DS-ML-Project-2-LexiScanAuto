@@ -1,2 +1,2 @@
 # ds-ml-project
-intership roject
+intership poject
